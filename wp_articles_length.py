@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#      arquivador.py
+#      wp_articles_length.py
 #
 #      (C) 2011 Alchimista <alchimistawp@gmail.com>
 #
